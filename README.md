@@ -4,3 +4,4 @@ R-Tex bot is a free bot for everyone, it has everything you need & more!
 * [Website](https://rtexbot.com)
 * [Invite The Bot](https://rtexbot.com/invite)
 * [Discord Server](https://rtexbot.com/discord)
+* [Documentation](https://docs.rtexbot.com)
