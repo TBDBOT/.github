@@ -1,5 +1,6 @@
 # R-Tex Bot
 R-Tex bot is a free bot for everyone, it has everything you need & more!
+It's free unless you get premium, in which case you pay :)
 ## Links
 * [Website](https://rtexbot.com)
 * [Invite The Bot](https://rtexbot.com/invite)
