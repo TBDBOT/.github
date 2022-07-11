@@ -1,8 +1,8 @@
-# R-Tex Bot
-R-Tex bot is a free bot for everyone, it has everything you need & more!
+# TBDBOT
+TBDBOT is a free bot for everyone, it has everything you need & more!
 It's free unless you get premium, in which case you pay :)
 ## Links
-* [Website](https://rtexbot.com)
-* [Invite The Bot](https://rtexbot.com/invite)
-* [Discord Server](https://rtexbot.com/discord)
-* [Documentation](https://docs.rtexbot.com)
+* [Website](https://tbdbot.xyz)
+* [Invite The Bot](https://tbdbot.xyz/invite)
+* [Discord Server](https://tbdbot.xyz/discord)
+* [Documentation](https://docs.tbdbot.xyz)
